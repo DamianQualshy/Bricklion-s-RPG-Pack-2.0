@@ -6,7 +6,9 @@
 Branches on this repo are different versions of the pack that I could find, alongside the ones I made myself.
 
 ## 1.16.5
-It is recommended to use Programmer Art alongside this texturepack.
+As it is in [Pack Format 6](https://minecraft.wiki/w/Pack_format), it will work properly in versions 1.16.2 - rc1–1.16.5 or 1.16.2 – 1.16.5
+
+It is also recommended to use Programmer Art alongside this texturepack.
 
 # Credits
 Obviously for Bricklion for creating the original pack and Nidrax for the 1.2.3 update.
