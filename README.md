@@ -5,6 +5,9 @@
 
 Branches on this repo are different versions of the pack that I could find, alongside the ones I made myself.
 
+## Releases
+For specific versions of the packs, please check [Releases](https://github.com/DamianQualshy/Bricklion-s-RPG-Pack-2.0/releases).
+
 # Credits
 Obviously for Bricklion for creating the pack and Nidrax for the 1.2.3 pack.
 
