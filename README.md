@@ -8,6 +8,14 @@ Branches on this repo are different versions of the pack that I could find, alon
 ## Releases
 For specific versions of the packs, please check [Releases](https://github.com/DamianQualshy/Bricklion-s-RPG-Pack-2.0/releases).
 
+The pack for now supports these versions:
+**v1.1.1** | up to b1.7.3
+**v1.2.3** | up to 1.2.3
+**v1.7.10** | 1.6.1 - 1.7.10
+**v1.12.2** | 1.11 - 1.12.2
+**v1.16.5** | 1.16.2 - 1.16.5
+**v1.18.2** | 1.18 – 1.18.2
+
 # Credits
 Obviously for Bricklion for creating the pack and Nidrax for the 1.2.3 pack.
 
