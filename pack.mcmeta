@@ -1,9 +1,9 @@
 {
   "pack": {
-    "pack_format": 6,
-    "description": "Version 1.16.5"
+    "pack_format": 8,
+    "description": "Version 1.18.2"
   },
   "meta": {
-    "game_version": "1.16.5"
+    "game_version": "1.18.2"
   }
 }

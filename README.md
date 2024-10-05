@@ -5,8 +5,8 @@
 
 Branches on this repo are different versions of the pack that I could find, alongside the ones I made myself.
 
-## 1.16.5
-As it is in [Pack Format 6](https://minecraft.wiki/w/Pack_format), it will work properly in versions 1.16.2-rc1 – 1.16.5 or 1.16.2 – 1.16.5
+## 1.18.2
+As it is in [Pack Format 8](https://minecraft.wiki/w/Pack_format), it will work properly in versions 21w39a – 1.18.2 or 1.18 – 1.18.2
 
 It is also recommended to use Programmer Art alongside this texturepack.
 
