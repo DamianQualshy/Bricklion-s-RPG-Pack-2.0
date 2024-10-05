@@ -15,6 +15,7 @@ The pack supports these versions:
 - **v1.12.2** | 1.11 - 1.12.2
 - **v1.16.5** | 1.16.2 - 1.16.5
 - **v1.18.2** | 1.18 – 1.18.2
+- **v1.21.1** | 1.21 – 1.21.1
 
 If you wonder why the packs have such specific game versions assigned to them, I encourage you to check Minecraft Wiki articles about [Pack Format](https://minecraft.wiki/w/Pack_format) and [Resource Packs](https://minecraft.wiki/w/Resource_pack).
 
