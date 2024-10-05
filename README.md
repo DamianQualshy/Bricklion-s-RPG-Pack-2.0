@@ -16,6 +16,8 @@ The pack for now supports these versions:
 **v1.16.5** | 1.16.2 - 1.16.5
 **v1.18.2** | 1.18 – 1.18.2
 
+If you wonder why the packs have such specific game versions assigned to them, I encourage you to check Minecraft Wiki articles about [Pack Format](https://minecraft.wiki/w/Pack_format) and [Resource Packs](https://minecraft.wiki/w/Resource_pack).
+
 # Credits
 Obviously for Bricklion for creating the pack and Nidrax for the 1.2.3 pack.
 
@@ -23,3 +25,12 @@ But also for people who created tools that really helped me out here:
 - https://github.com/ewanhowell5195/ewanhowell5195.github.io/releases
 - https://github.com/icrdr/Resource-Pack-Converter
 - https://github.com/rmod8/Atlas-Unstitcher
+
+# Gallery
+You should obviously check the Planet Minecraft page for that, but I'll link them here anyway. The top one will always contain latest screenshots, I'm leaving the older images just for comparison.
+
+10-05 | https://imgur.com/gallery/bricklions-rpg-pack-2-0-3rd-screenshot-batch-sxSIcJx
+
+10-03 | https://imgur.com/gallery/bricklions-rpg-pack-2-0-2nd-screenshot-batch-yEGNTM5
+
+09-29 | https://imgur.com/gallery/bricklions-rpg-pack-v1-16-5-inmFmMK
