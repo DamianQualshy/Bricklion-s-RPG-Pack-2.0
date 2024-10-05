@@ -6,15 +6,15 @@
 Branches on this repo are different versions of the pack that I could find, alongside the ones I made myself.
 
 ## Releases
-For specific versions of the packs, please check [Releases](https://github.com/DamianQualshy/Bricklion-s-RPG-Pack-2.0/releases).
+For specific versions of the pack, please check [Releases](https://github.com/DamianQualshy/Bricklion-s-RPG-Pack-2.0/releases).
 
-The pack for now supports these versions:
-**v1.1.1** | up to b1.7.3
-**v1.2.3** | up to 1.2.3
-**v1.7.10** | 1.6.1 - 1.7.10
-**v1.12.2** | 1.11 - 1.12.2
-**v1.16.5** | 1.16.2 - 1.16.5
-**v1.18.2** | 1.18 – 1.18.2
+The pack supports these versions:
+- **v1.1.1** | up to b1.7.3
+- **v1.2.3** | up to 1.2.3
+- **v1.7.10** | 1.6.1 - 1.7.10
+- **v1.12.2** | 1.11 - 1.12.2
+- **v1.16.5** | 1.16.2 - 1.16.5
+- **v1.18.2** | 1.18 – 1.18.2
 
 If you wonder why the packs have such specific game versions assigned to them, I encourage you to check Minecraft Wiki articles about [Pack Format](https://minecraft.wiki/w/Pack_format) and [Resource Packs](https://minecraft.wiki/w/Resource_pack).
 
